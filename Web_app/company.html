@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Company</title>
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+<body>
+    <h1 id="company"></h3>
+    <div id='plot'></div>
+    <script>
+        let params = new URLSearchParams(window.location.search)
+        let companyId = params.get('company_id')
+        let h1 = d3.select('#company')
+        
+        d3.json(`http://localhost:5000/api/company/${companyId}`)
+            .then(function(apiData) {
+                h1.text(apiData.company_name)
+
+                let trace = {
+                    x: apiData.x,
+                    y: apiData.y,
+                    type: 'line'
+                }
+
+                Plotly.newPlot('plot', [trace])
+            })
+    </script>
+</body>
+</html>
