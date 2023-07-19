@@ -3,20 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Company</title>
+    <title>Netflix</title>
     <script src="https://d3js.org/d3.v7.min.js"></script>
     <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 </head>
 <body>
-    <h1 id="company"></h3>
+    <h1 id="company"></h1>
     <div id='plot'></div>
     <script>
         let params = new URLSearchParams(window.location.search)
-        let companyId = params.get('company_id')
+        let User = params.get('user')
         let h1 = d3.select('#company')
-        
-        d3.json(`http://localhost:5000/api/company/${companyId}`)
-            .then(function(apiData) {
+
+        d3.json(`http://localhost:5000/api/users`)
+            .then(response => response.json())
+            .then(apiData => {
                 h1.text(apiData.company_name)
 
                 let trace = {
@@ -27,6 +28,12 @@
 
                 Plotly.newPlot('plot', [trace])
             })
+            .catch(error => {
+                console.log('Error:', error);
+            });
+        fetch('http://localhost:5000/api/users')
+    
+  
     </script>
 </body>
 </html>
