@@ -38,7 +38,7 @@ def get_subscription():
         cur = con.cursor()
 
         query = """
-            SELECT `Age`, `Device`, `Monthly Revenue`, `Join Date`, `Last Payment Date`
+            SELECT `Age`, `Device`, `Monthly Revenue`, `Join Date`, `Last Payment Date`, `SubscriptionType`
             FROM NetflixUser
         """
 
@@ -47,13 +47,14 @@ def get_subscription():
 
         subscription = []
         for row in data:
-            age, device, revenue, join_date, last_payment_date = row
+            age, device, revenue, join_date, last_payment_date, subscription_type= row
             subscription_data = {
                 'Age': age,
                 'Device': device,
                 'MonthlyRevenue': revenue,
                 'JoinDate': join_date,
-                'LastPaymentDate': last_payment_date
+                'LastPaymentDate': last_payment_date,
+                'SubscriptionType': subscription_type
             }
             subscription.append(subscription_data)
 
@@ -91,8 +92,9 @@ def get_gender_country_data():
         cur = con.cursor()
 
         query = """
-            SELECT `Gender`, `Country`, `Age`
+            SELECT `Gender`, `Country`, COUNT(*) AS `UserCount`
             FROM NetflixUser
+            GROUP BY `Gender`, `Country`
         """
 
         cur.execute(query)
@@ -100,15 +102,16 @@ def get_gender_country_data():
 
         gender_country_data = []
         for row in data:
-            gender, country, age = row
+            gender, country, user_count = row
             entry = {
                 'Gender': gender,
                 'Country': country,
-                'Age': age
+                'UserCount': user_count
             }
             gender_country_data.append(entry)
 
         return jsonify(gender_country_data)
+
 
 
 
