@@ -1,0 +1,2501 @@
+,Country,Age,Age_Bins
+0,United States,28,<30
+1,Canada,35,30-34
+2,United Kingdom,42,40-44
+3,Australia,51,>45
+4,Germany,33,30-34
+5,France,29,<30
+6,Brazil,46,>45
+7,Mexico,39,35-39
+8,Spain,37,35-39
+9,Italy,44,40-44
+10,United States,31,30-34
+11,Canada,45,40-44
+12,United Kingdom,48,>45
+13,Australia,27,<30
+14,Germany,38,35-39
+15,France,36,35-39
+16,Brazil,30,<30
+17,Mexico,43,40-44
+18,Spain,32,30-34
+19,Italy,41,40-44
+20,United States,26,<30
+21,Canada,34,30-34
+22,United Kingdom,49,>45
+23,Australia,31,30-34
+24,Germany,40,35-39
+25,France,29,<30
+26,Brazil,47,>45
+27,Mexico,33,30-34
+28,Spain,36,35-39
+29,Italy,42,40-44
+30,United States,28,<30
+31,Canada,37,35-39
+32,United Kingdom,41,40-44
+33,Australia,29,<30
+34,Germany,39,35-39
+35,France,35,30-34
+36,Brazil,45,40-44
+37,Mexico,32,30-34
+38,Spain,27,<30
+39,Italy,48,>45
+40,United States,31,30-34
+41,Canada,40,35-39
+42,United Kingdom,36,35-39
+43,Australia,29,<30
+44,Germany,43,40-44
+45,France,34,30-34
+46,Brazil,39,35-39
+47,Mexico,32,30-34
+48,Spain,28,<30
+49,Italy,45,40-44
+50,United States,30,<30
+51,Canada,37,35-39
+52,United Kingdom,41,40-44
+53,Australia,29,<30
+54,Germany,39,35-39
+55,France,36,35-39
+56,Brazil,46,>45
+57,Mexico,34,30-34
+58,Spain,27,<30
+59,Italy,42,40-44
+60,United States,28,<30
+61,Canada,37,35-39
+62,United Kingdom,41,40-44
+63,Australia,29,<30
+64,Germany,40,35-39
+65,France,29,<30
+66,Brazil,47,>45
+67,Mexico,33,30-34
+68,Spain,36,35-39
+69,Italy,41,40-44
+70,United States,27,<30
+71,Canada,31,30-34
+72,United Kingdom,28,<30
+73,Australia,41,40-44
+74,Germany,28,<30
+75,France,51,>45
+76,Brazil,45,40-44
+77,Mexico,49,>45
+78,Spain,43,40-44
+79,Italy,43,40-44
+80,United States,37,35-39
+81,Canada,35,30-34
+82,United Kingdom,46,>45
+83,Australia,32,30-34
+84,Germany,37,35-39
+85,France,29,<30
+86,Brazil,45,40-44
+87,Mexico,47,>45
+88,Spain,39,35-39
+89,Italy,49,>45
+90,United States,39,35-39
+91,Canada,39,35-39
+92,United Kingdom,35,30-34
+93,Australia,44,40-44
+94,Germany,34,30-34
+95,France,32,30-34
+96,Brazil,29,<30
+97,Mexico,31,30-34
+98,Spain,29,<30
+99,Italy,35,30-34
+100,United States,46,>45
+101,Canada,31,30-34
+102,United Kingdom,36,35-39
+103,Australia,38,35-39
+104,Germany,46,>45
+105,France,49,>45
+106,Brazil,29,<30
+107,Mexico,27,<30
+108,Spain,35,30-34
+109,Italy,37,35-39
+110,United States,40,35-39
+111,Canada,33,30-34
+112,United Kingdom,37,35-39
+113,Australia,48,>45
+114,Germany,50,>45
+115,France,45,40-44
+116,Brazil,40,35-39
+117,Mexico,33,30-34
+118,Spain,44,40-44
+119,Italy,30,<30
+120,United States,27,<30
+121,Canada,51,>45
+122,United Kingdom,49,>45
+123,Australia,43,40-44
+124,Germany,42,40-44
+125,France,45,40-44
+126,Brazil,36,35-39
+127,Mexico,48,>45
+128,Spain,38,35-39
+129,Italy,43,40-44
+130,United States,47,>45
+131,Canada,48,>45
+132,United Kingdom,47,>45
+133,Australia,32,30-34
+134,Germany,47,>45
+135,France,41,40-44
+136,Brazil,49,>45
+137,Mexico,28,<30
+138,Spain,40,35-39
+139,Italy,43,40-44
+140,United States,42,40-44
+141,Canada,28,<30
+142,United Kingdom,30,<30
+143,Australia,33,30-34
+144,Germany,35,30-34
+145,France,38,35-39
+146,Brazil,49,>45
+147,Mexico,39,35-39
+148,Spain,46,>45
+149,Italy,47,>45
+150,United States,30,<30
+151,Canada,33,30-34
+152,United Kingdom,47,>45
+153,Australia,27,<30
+154,Germany,28,<30
+155,France,47,>45
+156,Brazil,30,<30
+157,Mexico,47,>45
+158,Spain,51,>45
+159,Italy,39,35-39
+160,United States,45,40-44
+161,Canada,31,30-34
+162,United Kingdom,29,<30
+163,Australia,42,40-44
+164,Germany,49,>45
+165,France,42,40-44
+166,Brazil,29,<30
+167,Mexico,29,<30
+168,Spain,49,>45
+169,Italy,32,30-34
+170,United States,35,30-34
+171,Canada,39,35-39
+172,United Kingdom,40,35-39
+173,Australia,39,35-39
+174,Germany,47,>45
+175,France,37,35-39
+176,Brazil,27,<30
+177,Mexico,49,>45
+178,Spain,30,<30
+179,Italy,36,35-39
+180,United States,33,30-34
+181,Canada,30,<30
+182,United Kingdom,36,35-39
+183,Australia,28,<30
+184,Germany,47,>45
+185,France,33,30-34
+186,Brazil,49,>45
+187,Mexico,44,40-44
+188,Spain,47,>45
+189,Italy,37,35-39
+190,United States,46,>45
+191,Canada,50,>45
+192,United Kingdom,50,>45
+193,Australia,37,35-39
+194,Germany,50,>45
+195,France,45,40-44
+196,Brazil,45,40-44
+197,Mexico,49,>45
+198,Spain,39,35-39
+199,Italy,45,40-44
+200,United States,49,>45
+201,Canada,31,30-34
+202,United Kingdom,42,40-44
+203,Australia,37,35-39
+204,Germany,30,<30
+205,France,40,35-39
+206,Brazil,45,40-44
+207,Mexico,36,35-39
+208,Spain,41,40-44
+209,Italy,49,>45
+210,United States,40,35-39
+211,Canada,36,35-39
+212,United Kingdom,49,>45
+213,Australia,43,40-44
+214,Germany,50,>45
+215,France,51,>45
+216,Brazil,44,40-44
+217,Mexico,27,<30
+218,Spain,46,>45
+219,Italy,29,<30
+220,United States,47,>45
+221,Canada,48,>45
+222,United Kingdom,34,30-34
+223,Australia,40,35-39
+224,Germany,48,>45
+225,France,35,30-34
+226,Brazil,51,>45
+227,Mexico,39,35-39
+228,Spain,29,<30
+229,Italy,51,>45
+230,United States,43,40-44
+231,Canada,28,<30
+232,United Kingdom,50,>45
+233,Australia,44,40-44
+234,Germany,50,>45
+235,France,39,35-39
+236,Brazil,46,>45
+237,Mexico,48,>45
+238,Spain,38,35-39
+239,Italy,38,35-39
+240,United States,47,>45
+241,Canada,37,35-39
+242,United Kingdom,33,30-34
+243,Australia,28,<30
+244,Germany,47,>45
+245,France,38,35-39
+246,Brazil,27,<30
+247,Mexico,34,30-34
+248,Spain,42,40-44
+249,Italy,28,<30
+250,United States,30,<30
+251,Canada,38,35-39
+252,United Kingdom,45,40-44
+253,Australia,48,>45
+254,Germany,46,>45
+255,France,34,30-34
+256,Brazil,46,>45
+257,Mexico,41,40-44
+258,Spain,28,<30
+259,Italy,27,<30
+260,United States,27,<30
+261,Canada,28,<30
+262,United Kingdom,46,>45
+263,Australia,51,>45
+264,Germany,32,30-34
+265,France,44,40-44
+266,Brazil,44,40-44
+267,Mexico,34,30-34
+268,Spain,29,<30
+269,Italy,47,>45
+270,United States,41,40-44
+271,Canada,36,35-39
+272,United Kingdom,28,<30
+273,Australia,27,<30
+274,Germany,34,30-34
+275,France,34,30-34
+276,Brazil,37,35-39
+277,Mexico,34,30-34
+278,Spain,50,>45
+279,Italy,34,30-34
+280,United States,33,30-34
+281,Canada,33,30-34
+282,United Kingdom,46,>45
+283,Australia,39,35-39
+284,Germany,42,40-44
+285,France,50,>45
+286,Brazil,43,40-44
+287,Mexico,51,>45
+288,Spain,34,30-34
+289,Italy,48,>45
+290,United States,29,<30
+291,Canada,43,40-44
+292,United Kingdom,39,35-39
+293,Australia,50,>45
+294,Germany,45,40-44
+295,France,48,>45
+296,Brazil,40,35-39
+297,Mexico,41,40-44
+298,Spain,27,<30
+299,Italy,36,35-39
+300,United States,36,35-39
+301,Canada,44,40-44
+302,United Kingdom,45,40-44
+303,Australia,33,30-34
+304,Germany,47,>45
+305,France,45,40-44
+306,Brazil,29,<30
+307,Mexico,31,30-34
+308,Spain,31,30-34
+309,Italy,49,>45
+310,United States,29,<30
+311,Canada,50,>45
+312,United Kingdom,36,35-39
+313,Australia,28,<30
+314,Germany,47,>45
+315,France,50,>45
+316,Brazil,44,40-44
+317,Mexico,39,35-39
+318,Spain,32,30-34
+319,Italy,30,<30
+320,United States,33,30-34
+321,Canada,44,40-44
+322,United Kingdom,40,35-39
+323,Australia,32,30-34
+324,Germany,32,30-34
+325,France,30,<30
+326,Brazil,32,30-34
+327,Mexico,45,40-44
+328,Spain,35,30-34
+329,Italy,40,35-39
+330,United States,29,<30
+331,Canada,31,30-34
+332,United Kingdom,43,40-44
+333,Australia,34,30-34
+334,Germany,47,>45
+335,France,35,30-34
+336,Brazil,36,35-39
+337,Mexico,33,30-34
+338,Spain,30,<30
+339,Italy,44,40-44
+340,United States,44,40-44
+341,Canada,41,40-44
+342,United Kingdom,46,>45
+343,Australia,42,40-44
+344,Germany,48,>45
+345,France,37,35-39
+346,Brazil,29,<30
+347,Mexico,30,<30
+348,Spain,28,<30
+349,Italy,44,40-44
+350,United States,34,30-34
+351,Canada,38,35-39
+352,United Kingdom,34,30-34
+353,Australia,40,35-39
+354,Germany,32,30-34
+355,France,38,35-39
+356,Brazil,39,35-39
+357,Mexico,34,30-34
+358,Spain,41,40-44
+359,Italy,43,40-44
+360,United States,36,35-39
+361,Canada,31,30-34
+362,United Kingdom,47,>45
+363,Australia,48,>45
+364,Germany,36,35-39
+365,France,41,40-44
+366,Brazil,32,30-34
+367,Mexico,28,<30
+368,Spain,46,>45
+369,Italy,46,>45
+370,United States,47,>45
+371,Canada,31,30-34
+372,United Kingdom,44,40-44
+373,Australia,39,35-39
+374,Germany,44,40-44
+375,France,39,35-39
+376,Brazil,37,35-39
+377,Mexico,47,>45
+378,Spain,46,>45
+379,Italy,27,<30
+380,United States,43,40-44
+381,Canada,51,>45
+382,United Kingdom,49,>45
+383,Australia,35,30-34
+384,Germany,44,40-44
+385,France,48,>45
+386,Brazil,39,35-39
+387,Mexico,38,35-39
+388,Spain,45,40-44
+389,Italy,43,40-44
+390,United States,42,40-44
+391,Canada,28,<30
+392,United Kingdom,40,35-39
+393,Australia,41,40-44
+394,Germany,45,40-44
+395,France,30,<30
+396,Brazil,31,30-34
+397,Mexico,51,>45
+398,Spain,44,40-44
+399,Italy,49,>45
+400,United States,47,>45
+401,Canada,42,40-44
+402,United Kingdom,28,<30
+403,Australia,28,<30
+404,Germany,49,>45
+405,France,32,30-34
+406,Brazil,37,35-39
+407,Mexico,37,35-39
+408,Spain,37,35-39
+409,Italy,37,35-39
+410,United States,48,>45
+411,Canada,47,>45
+412,United Kingdom,41,40-44
+413,Australia,47,>45
+414,Germany,39,35-39
+415,France,28,<30
+416,Brazil,31,30-34
+417,Mexico,47,>45
+418,Spain,27,<30
+419,Italy,28,<30
+420,United States,33,30-34
+421,Canada,29,<30
+422,United Kingdom,41,40-44
+423,Australia,28,<30
+424,Germany,38,35-39
+425,France,35,30-34
+426,Brazil,51,>45
+427,Mexico,45,40-44
+428,Spain,51,>45
+429,Italy,46,>45
+430,United States,28,<30
+431,Canada,46,>45
+432,United Kingdom,46,>45
+433,Australia,32,30-34
+434,Germany,39,35-39
+435,France,41,40-44
+436,Brazil,47,>45
+437,Mexico,35,30-34
+438,Spain,37,35-39
+439,Italy,47,>45
+440,United States,48,>45
+441,Canada,30,<30
+442,United Kingdom,36,35-39
+443,Australia,50,>45
+444,Germany,41,40-44
+445,France,46,>45
+446,Brazil,36,35-39
+447,Mexico,48,>45
+448,Spain,37,35-39
+449,Italy,49,>45
+450,United States,31,30-34
+451,Canada,42,40-44
+452,United Kingdom,45,40-44
+453,Australia,51,>45
+454,Germany,31,30-34
+455,France,41,40-44
+456,Brazil,40,35-39
+457,Mexico,27,<30
+458,Spain,46,>45
+459,Italy,30,<30
+460,United States,37,35-39
+461,Canada,45,40-44
+462,United Kingdom,40,35-39
+463,Australia,45,40-44
+464,Germany,34,30-34
+465,France,33,30-34
+466,Brazil,47,>45
+467,Mexico,32,30-34
+468,Spain,41,40-44
+469,Italy,31,30-34
+470,United States,43,40-44
+471,Canada,32,30-34
+472,United Kingdom,46,>45
+473,Australia,38,35-39
+474,Germany,31,30-34
+475,France,31,30-34
+476,Brazil,50,>45
+477,Mexico,32,30-34
+478,Spain,38,35-39
+479,Italy,37,35-39
+480,United States,36,35-39
+481,Canada,30,<30
+482,United Kingdom,28,<30
+483,Australia,40,35-39
+484,Germany,28,<30
+485,France,37,35-39
+486,Brazil,30,<30
+487,Mexico,33,30-34
+488,Spain,49,>45
+489,Italy,36,35-39
+490,United States,28,<30
+491,Canada,51,>45
+492,United Kingdom,35,30-34
+493,Australia,31,30-34
+494,Germany,39,35-39
+495,France,51,>45
+496,Brazil,44,40-44
+497,Mexico,41,40-44
+498,Spain,28,<30
+499,Italy,38,35-39
+500,Spain,43,40-44
+501,Spain,38,35-39
+502,United States,30,<30
+503,Canada,32,30-34
+504,United States,35,30-34
+505,United States,27,<30
+506,Canada,49,>45
+507,United Kingdom,42,40-44
+508,Australia,40,35-39
+509,Germany,43,40-44
+510,France,44,40-44
+511,Brazil,32,30-34
+512,Mexico,50,>45
+513,Spain,35,30-34
+514,Italy,44,40-44
+515,Spain,42,40-44
+516,Spain,34,30-34
+517,United States,37,35-39
+518,Canada,43,40-44
+519,United States,32,30-34
+520,United States,33,30-34
+521,Canada,32,30-34
+522,United Kingdom,41,40-44
+523,Australia,31,30-34
+524,Germany,44,40-44
+525,France,49,>45
+526,Brazil,48,>45
+527,Mexico,42,40-44
+528,Spain,50,>45
+529,Italy,49,>45
+530,Spain,30,<30
+531,Spain,38,35-39
+532,United States,38,35-39
+533,Canada,39,35-39
+534,United States,42,40-44
+535,United States,28,<30
+536,Canada,38,35-39
+537,United Kingdom,40,35-39
+538,Australia,30,<30
+539,Germany,40,35-39
+540,France,31,30-34
+541,Brazil,41,40-44
+542,Mexico,37,35-39
+543,Spain,49,>45
+544,Italy,29,<30
+545,Spain,31,30-34
+546,Spain,39,35-39
+547,United States,51,>45
+548,Canada,38,35-39
+549,United States,29,<30
+550,United States,41,40-44
+551,Canada,48,>45
+552,United Kingdom,39,35-39
+553,Australia,37,35-39
+554,Germany,37,35-39
+555,France,34,30-34
+556,Brazil,37,35-39
+557,Mexico,37,35-39
+558,Spain,51,>45
+559,Italy,45,40-44
+560,Spain,29,<30
+561,Spain,37,35-39
+562,United States,34,30-34
+563,Canada,35,30-34
+564,United States,29,<30
+565,United States,45,40-44
+566,Canada,36,35-39
+567,United Kingdom,27,<30
+568,Australia,31,30-34
+569,Germany,41,40-44
+570,France,37,35-39
+571,Brazil,49,>45
+572,Mexico,37,35-39
+573,Spain,36,35-39
+574,Italy,38,35-39
+575,Spain,49,>45
+576,Spain,31,30-34
+577,United States,29,<30
+578,Canada,35,30-34
+579,United States,46,>45
+580,United States,29,<30
+581,Canada,43,40-44
+582,United Kingdom,38,35-39
+583,Australia,48,>45
+584,Germany,41,40-44
+585,France,51,>45
+586,Brazil,39,35-39
+587,Mexico,31,30-34
+588,Spain,28,<30
+589,Italy,47,>45
+590,Spain,35,30-34
+591,Spain,33,30-34
+592,United States,41,40-44
+593,Canada,38,35-39
+594,United States,49,>45
+595,United States,29,<30
+596,Canada,50,>45
+597,United Kingdom,29,<30
+598,Australia,44,40-44
+599,Germany,36,35-39
+600,France,46,>45
+601,Brazil,30,<30
+602,Mexico,46,>45
+603,Spain,33,30-34
+604,Italy,46,>45
+605,Spain,50,>45
+606,Spain,27,<30
+607,United States,48,>45
+608,Canada,50,>45
+609,United States,28,<30
+610,United States,29,<30
+611,Canada,36,35-39
+612,United Kingdom,51,>45
+613,Australia,51,>45
+614,Germany,43,40-44
+615,France,38,35-39
+616,Brazil,45,40-44
+617,Mexico,28,<30
+618,Spain,27,<30
+619,Italy,41,40-44
+620,Spain,49,>45
+621,Spain,35,30-34
+622,United States,29,<30
+623,Canada,42,40-44
+624,United States,33,30-34
+625,United States,30,<30
+626,Canada,43,40-44
+627,United Kingdom,42,40-44
+628,Australia,39,35-39
+629,Germany,32,30-34
+630,France,31,30-34
+631,Brazil,39,35-39
+632,Mexico,41,40-44
+633,Spain,51,>45
+634,Italy,29,<30
+635,Spain,33,30-34
+636,Spain,51,>45
+637,United States,38,35-39
+638,Canada,37,35-39
+639,United States,50,>45
+640,United States,33,30-34
+641,Canada,27,<30
+642,United Kingdom,50,>45
+643,Australia,47,>45
+644,Germany,41,40-44
+645,France,49,>45
+646,Brazil,32,30-34
+647,Mexico,38,35-39
+648,Spain,38,35-39
+649,Italy,28,<30
+650,Spain,31,30-34
+651,Spain,39,35-39
+652,United States,28,<30
+653,Canada,30,<30
+654,United States,42,40-44
+655,United States,33,30-34
+656,Canada,34,30-34
+657,United Kingdom,49,>45
+658,Australia,41,40-44
+659,Germany,28,<30
+660,France,49,>45
+661,Brazil,49,>45
+662,Mexico,36,35-39
+663,Spain,31,30-34
+664,Italy,38,35-39
+665,Spain,34,30-34
+666,Spain,51,>45
+667,United States,49,>45
+668,Canada,27,<30
+669,United States,38,35-39
+670,United States,51,>45
+671,Canada,47,>45
+672,United Kingdom,37,35-39
+673,Australia,37,35-39
+674,Germany,39,35-39
+675,France,31,30-34
+676,Brazil,36,35-39
+677,Mexico,42,40-44
+678,Spain,49,>45
+679,Italy,44,40-44
+680,Spain,33,30-34
+681,Spain,42,40-44
+682,United States,39,35-39
+683,Canada,49,>45
+684,United States,31,30-34
+685,United States,37,35-39
+686,Canada,30,<30
+687,United Kingdom,42,40-44
+688,Australia,37,35-39
+689,Germany,36,35-39
+690,France,28,<30
+691,Brazil,36,35-39
+692,Mexico,31,30-34
+693,Spain,46,>45
+694,Italy,28,<30
+695,Spain,31,30-34
+696,Spain,43,40-44
+697,United States,28,<30
+698,Canada,32,30-34
+699,United States,31,30-34
+700,United States,45,40-44
+701,Canada,36,35-39
+702,United Kingdom,35,30-34
+703,Australia,27,<30
+704,Germany,32,30-34
+705,France,46,>45
+706,Brazil,36,35-39
+707,Mexico,39,35-39
+708,Spain,48,>45
+709,Italy,48,>45
+710,Spain,27,<30
+711,Spain,45,40-44
+712,United States,30,<30
+713,Canada,29,<30
+714,United States,43,40-44
+715,United States,43,40-44
+716,Canada,39,35-39
+717,United Kingdom,27,<30
+718,Australia,33,30-34
+719,Germany,32,30-34
+720,France,37,35-39
+721,Brazil,45,40-44
+722,Mexico,40,35-39
+723,Spain,44,40-44
+724,Italy,29,<30
+725,Spain,50,>45
+726,Spain,32,30-34
+727,United States,39,35-39
+728,Canada,43,40-44
+729,United States,49,>45
+730,United States,30,<30
+731,Canada,47,>45
+732,United Kingdom,51,>45
+733,Australia,40,35-39
+734,Germany,40,35-39
+735,France,49,>45
+736,Brazil,43,40-44
+737,Mexico,44,40-44
+738,Spain,27,<30
+739,Italy,30,<30
+740,Spain,47,>45
+741,Spain,51,>45
+742,United States,31,30-34
+743,Canada,34,30-34
+744,United States,28,<30
+745,United States,32,30-34
+746,Canada,41,40-44
+747,United Kingdom,40,35-39
+748,Australia,46,>45
+749,Germany,47,>45
+750,France,45,40-44
+751,Brazil,28,<30
+752,Mexico,43,40-44
+753,Spain,41,40-44
+754,Italy,32,30-34
+755,Spain,44,40-44
+756,Spain,32,30-34
+757,United States,47,>45
+758,Canada,37,35-39
+759,United States,40,35-39
+760,United States,48,>45
+761,Canada,48,>45
+762,United Kingdom,35,30-34
+763,Australia,28,<30
+764,Germany,35,30-34
+765,France,43,40-44
+766,Brazil,39,35-39
+767,Mexico,38,35-39
+768,Spain,36,35-39
+769,Italy,42,40-44
+770,Spain,27,<30
+771,Spain,48,>45
+772,United States,27,<30
+773,Canada,49,>45
+774,United States,29,<30
+775,United States,44,40-44
+776,Canada,31,30-34
+777,United Kingdom,33,30-34
+778,Australia,36,35-39
+779,Germany,43,40-44
+780,France,30,<30
+781,Brazil,44,40-44
+782,Mexico,37,35-39
+783,Spain,27,<30
+784,Italy,35,30-34
+785,Spain,32,30-34
+786,Spain,49,>45
+787,United States,45,40-44
+788,Canada,33,30-34
+789,United States,37,35-39
+790,United States,29,<30
+791,Canada,45,40-44
+792,United Kingdom,42,40-44
+793,Australia,32,30-34
+794,Germany,47,>45
+795,France,27,<30
+796,Brazil,35,30-34
+797,Mexico,35,30-34
+798,Spain,48,>45
+799,Italy,36,35-39
+800,Spain,46,>45
+801,Spain,33,30-34
+802,United States,43,40-44
+803,Canada,47,>45
+804,United States,39,35-39
+805,United States,30,<30
+806,Canada,46,>45
+807,United Kingdom,39,35-39
+808,Australia,28,<30
+809,Germany,38,35-39
+810,France,36,35-39
+811,Brazil,33,30-34
+812,Mexico,50,>45
+813,Spain,38,35-39
+814,Italy,29,<30
+815,Spain,47,>45
+816,Spain,31,30-34
+817,United States,40,35-39
+818,Canada,50,>45
+819,United States,43,40-44
+820,United States,35,30-34
+821,Canada,36,35-39
+822,United Kingdom,30,<30
+823,Australia,47,>45
+824,Germany,30,<30
+825,France,37,35-39
+826,Brazil,34,30-34
+827,Mexico,33,30-34
+828,Spain,31,30-34
+829,Italy,30,<30
+830,Spain,35,30-34
+831,Spain,40,35-39
+832,United States,29,<30
+833,Canada,34,30-34
+834,United States,31,30-34
+835,United States,28,<30
+836,Canada,46,>45
+837,United Kingdom,38,35-39
+838,Australia,35,30-34
+839,Germany,49,>45
+840,France,42,40-44
+841,Brazil,37,35-39
+842,Mexico,39,35-39
+843,Spain,47,>45
+844,Italy,49,>45
+845,Spain,35,30-34
+846,Spain,36,35-39
+847,United States,40,35-39
+848,Canada,30,<30
+849,United States,51,>45
+850,United States,47,>45
+851,Canada,47,>45
+852,United Kingdom,39,35-39
+853,Australia,49,>45
+854,Germany,33,30-34
+855,France,32,30-34
+856,Brazil,40,35-39
+857,Mexico,40,35-39
+858,Spain,51,>45
+859,Italy,50,>45
+860,Spain,50,>45
+861,Spain,47,>45
+862,United States,35,30-34
+863,Canada,31,30-34
+864,United States,36,35-39
+865,United States,41,40-44
+866,Canada,49,>45
+867,United Kingdom,34,30-34
+868,Australia,30,<30
+869,Germany,38,35-39
+870,France,45,40-44
+871,Brazil,42,40-44
+872,Mexico,42,40-44
+873,Spain,31,30-34
+874,Italy,28,<30
+875,Spain,44,40-44
+876,Spain,30,<30
+877,United States,33,30-34
+878,Canada,42,40-44
+879,United States,31,30-34
+880,United States,31,30-34
+881,Canada,46,>45
+882,United Kingdom,28,<30
+883,Australia,50,>45
+884,Germany,34,30-34
+885,France,45,40-44
+886,Brazil,38,35-39
+887,Mexico,42,40-44
+888,Spain,45,40-44
+889,Italy,44,40-44
+890,Spain,50,>45
+891,Spain,38,35-39
+892,United States,42,40-44
+893,Canada,50,>45
+894,United States,30,<30
+895,United States,47,>45
+896,Canada,32,30-34
+897,United Kingdom,31,30-34
+898,Australia,37,35-39
+899,Germany,32,30-34
+900,France,29,<30
+901,Brazil,28,<30
+902,Mexico,42,40-44
+903,Spain,37,35-39
+904,Italy,38,35-39
+905,Spain,32,30-34
+906,Spain,48,>45
+907,United States,46,>45
+908,Canada,30,<30
+909,United States,40,35-39
+910,United States,29,<30
+911,Canada,41,40-44
+912,United Kingdom,32,30-34
+913,Australia,44,40-44
+914,Germany,41,40-44
+915,France,50,>45
+916,Brazil,33,30-34
+917,Mexico,34,30-34
+918,Spain,40,35-39
+919,Italy,34,30-34
+920,Spain,27,<30
+921,Spain,34,30-34
+922,United States,28,<30
+923,Canada,37,35-39
+924,United States,27,<30
+925,United States,33,30-34
+926,Canada,42,40-44
+927,United Kingdom,49,>45
+928,Australia,44,40-44
+929,Germany,47,>45
+930,France,33,30-34
+931,Brazil,37,35-39
+932,Mexico,35,30-34
+933,Spain,34,30-34
+934,Italy,44,40-44
+935,Spain,29,<30
+936,Spain,38,35-39
+937,United States,46,>45
+938,Canada,29,<30
+939,United States,48,>45
+940,United States,36,35-39
+941,Canada,43,40-44
+942,United Kingdom,42,40-44
+943,Australia,50,>45
+944,Germany,39,35-39
+945,France,43,40-44
+946,Brazil,50,>45
+947,Mexico,51,>45
+948,Spain,40,35-39
+949,Italy,31,30-34
+950,Spain,39,35-39
+951,Spain,49,>45
+952,United States,34,30-34
+953,Canada,38,35-39
+954,United States,36,35-39
+955,United States,42,40-44
+956,Canada,50,>45
+957,United Kingdom,42,40-44
+958,Australia,35,30-34
+959,Germany,46,>45
+960,France,48,>45
+961,Brazil,43,40-44
+962,Mexico,51,>45
+963,Spain,45,40-44
+964,Italy,46,>45
+965,Spain,42,40-44
+966,Spain,42,40-44
+967,United States,50,>45
+968,Canada,28,<30
+969,United States,44,40-44
+970,United States,36,35-39
+971,Canada,37,35-39
+972,United Kingdom,36,35-39
+973,Australia,31,30-34
+974,Germany,36,35-39
+975,France,39,35-39
+976,Brazil,45,40-44
+977,Mexico,29,<30
+978,Spain,45,40-44
+979,Italy,29,<30
+980,Spain,28,<30
+981,Spain,42,40-44
+982,United States,36,35-39
+983,Canada,39,35-39
+984,United States,36,35-39
+985,United States,49,>45
+986,Canada,32,30-34
+987,United Kingdom,40,35-39
+988,Australia,34,30-34
+989,Germany,35,30-34
+990,France,44,40-44
+991,Brazil,47,>45
+992,Mexico,33,30-34
+993,Spain,45,40-44
+994,Italy,42,40-44
+995,Spain,46,>45
+996,Spain,51,>45
+997,United States,41,40-44
+998,Canada,50,>45
+999,United States,49,>45
+1000,United States,34,30-34
+1001,Canada,38,35-39
+1002,United Kingdom,46,>45
+1003,Australia,42,40-44
+1004,Germany,46,>45
+1005,France,51,>45
+1006,Brazil,35,30-34
+1007,Mexico,34,30-34
+1008,Spain,31,30-34
+1009,Italy,36,35-39
+1010,Spain,28,<30
+1011,Spain,29,<30
+1012,United States,42,40-44
+1013,Canada,35,30-34
+1014,United States,32,30-34
+1015,United States,43,40-44
+1016,Canada,29,<30
+1017,United Kingdom,35,30-34
+1018,Australia,27,<30
+1019,Germany,38,35-39
+1020,France,33,30-34
+1021,Brazil,48,>45
+1022,Mexico,51,>45
+1023,Spain,40,35-39
+1024,Italy,28,<30
+1025,Spain,46,>45
+1026,Spain,28,<30
+1027,United States,47,>45
+1028,Canada,47,>45
+1029,United States,50,>45
+1030,United States,50,>45
+1031,Canada,29,<30
+1032,United Kingdom,38,35-39
+1033,Australia,40,35-39
+1034,Germany,43,40-44
+1035,France,27,<30
+1036,Brazil,37,35-39
+1037,Mexico,30,<30
+1038,Spain,50,>45
+1039,Italy,51,>45
+1040,Spain,37,35-39
+1041,Spain,35,30-34
+1042,United States,35,30-34
+1043,Canada,46,>45
+1044,United States,27,<30
+1045,United States,27,<30
+1046,Canada,39,35-39
+1047,United Kingdom,51,>45
+1048,Australia,41,40-44
+1049,Germany,30,<30
+1050,France,46,>45
+1051,Brazil,31,30-34
+1052,Mexico,49,>45
+1053,Spain,39,35-39
+1054,Italy,47,>45
+1055,Spain,36,35-39
+1056,Spain,42,40-44
+1057,United States,28,<30
+1058,Canada,43,40-44
+1059,United States,50,>45
+1060,United States,30,<30
+1061,Canada,34,30-34
+1062,United Kingdom,35,30-34
+1063,Australia,29,<30
+1064,Germany,33,30-34
+1065,France,47,>45
+1066,Brazil,32,30-34
+1067,Mexico,34,30-34
+1068,Spain,46,>45
+1069,Italy,31,30-34
+1070,Spain,40,35-39
+1071,Spain,38,35-39
+1072,United States,31,30-34
+1073,Canada,46,>45
+1074,United States,43,40-44
+1075,United States,38,35-39
+1076,Canada,38,35-39
+1077,United Kingdom,27,<30
+1078,Australia,49,>45
+1079,Germany,33,30-34
+1080,France,40,35-39
+1081,Brazil,27,<30
+1082,Mexico,28,<30
+1083,Spain,30,<30
+1084,Italy,33,30-34
+1085,Spain,51,>45
+1086,Spain,51,>45
+1087,United States,50,>45
+1088,Canada,46,>45
+1089,United States,31,30-34
+1090,United States,46,>45
+1091,Canada,41,40-44
+1092,United Kingdom,36,35-39
+1093,Australia,45,40-44
+1094,Germany,36,35-39
+1095,France,28,<30
+1096,Brazil,45,40-44
+1097,Mexico,39,35-39
+1098,Spain,51,>45
+1099,Italy,37,35-39
+1100,Spain,33,30-34
+1101,Spain,32,30-34
+1102,United States,49,>45
+1103,Canada,37,35-39
+1104,United States,39,35-39
+1105,United States,37,35-39
+1106,Canada,36,35-39
+1107,United Kingdom,34,30-34
+1108,Australia,51,>45
+1109,Germany,41,40-44
+1110,France,51,>45
+1111,Brazil,31,30-34
+1112,Mexico,44,40-44
+1113,Spain,50,>45
+1114,Italy,33,30-34
+1115,Spain,44,40-44
+1116,Spain,42,40-44
+1117,United States,35,30-34
+1118,Canada,48,>45
+1119,United States,51,>45
+1120,United States,44,40-44
+1121,Canada,37,35-39
+1122,United Kingdom,35,30-34
+1123,Australia,32,30-34
+1124,Germany,46,>45
+1125,France,39,35-39
+1126,Brazil,33,30-34
+1127,Mexico,42,40-44
+1128,Spain,37,35-39
+1129,Italy,27,<30
+1130,Spain,34,30-34
+1131,Spain,51,>45
+1132,United States,42,40-44
+1133,Canada,46,>45
+1134,United States,36,35-39
+1135,United States,46,>45
+1136,Canada,51,>45
+1137,United Kingdom,45,40-44
+1138,Australia,33,30-34
+1139,Germany,31,30-34
+1140,France,48,>45
+1141,Brazil,47,>45
+1142,Mexico,43,40-44
+1143,Spain,39,35-39
+1144,Italy,46,>45
+1145,Spain,46,>45
+1146,Spain,40,35-39
+1147,United States,38,35-39
+1148,Canada,48,>45
+1149,United States,38,35-39
+1150,United States,43,40-44
+1151,Canada,29,<30
+1152,United Kingdom,32,30-34
+1153,Australia,32,30-34
+1154,Germany,49,>45
+1155,France,51,>45
+1156,Brazil,32,30-34
+1157,Mexico,35,30-34
+1158,Spain,41,40-44
+1159,Italy,43,40-44
+1160,Spain,41,40-44
+1161,Spain,51,>45
+1162,United States,47,>45
+1163,Canada,39,35-39
+1164,United States,51,>45
+1165,United States,39,35-39
+1166,Canada,45,40-44
+1167,United Kingdom,42,40-44
+1168,Australia,48,>45
+1169,Germany,33,30-34
+1170,France,47,>45
+1171,Brazil,51,>45
+1172,Mexico,27,<30
+1173,Spain,44,40-44
+1174,Italy,41,40-44
+1175,Spain,37,35-39
+1176,Spain,48,>45
+1177,United States,30,<30
+1178,Canada,44,40-44
+1179,United States,34,30-34
+1180,United States,40,35-39
+1181,Canada,28,<30
+1182,United Kingdom,44,40-44
+1183,Australia,38,35-39
+1184,Germany,49,>45
+1185,France,32,30-34
+1186,Brazil,47,>45
+1187,Mexico,44,40-44
+1188,Spain,33,30-34
+1189,Italy,32,30-34
+1190,Spain,27,<30
+1191,Spain,37,35-39
+1192,United States,34,30-34
+1193,Canada,40,35-39
+1194,United States,45,40-44
+1195,United States,29,<30
+1196,Canada,35,30-34
+1197,United Kingdom,38,35-39
+1198,Australia,48,>45
+1199,Germany,36,35-39
+1200,France,41,40-44
+1201,Brazil,27,<30
+1202,Mexico,41,40-44
+1203,Spain,42,40-44
+1204,Italy,40,35-39
+1205,Spain,32,30-34
+1206,Spain,33,30-34
+1207,United States,34,30-34
+1208,Canada,29,<30
+1209,United States,50,>45
+1210,United States,29,<30
+1211,Canada,40,35-39
+1212,United Kingdom,27,<30
+1213,Australia,51,>45
+1214,Germany,41,40-44
+1215,France,28,<30
+1216,Brazil,42,40-44
+1217,Mexico,40,35-39
+1218,Spain,48,>45
+1219,Italy,28,<30
+1220,Spain,40,35-39
+1221,Spain,33,30-34
+1222,United States,33,30-34
+1223,Canada,47,>45
+1224,United States,50,>45
+1225,United States,38,35-39
+1226,Canada,36,35-39
+1227,United Kingdom,38,35-39
+1228,Australia,49,>45
+1229,Germany,40,35-39
+1230,France,51,>45
+1231,Brazil,42,40-44
+1232,Mexico,41,40-44
+1233,Spain,48,>45
+1234,Italy,39,35-39
+1235,Spain,35,30-34
+1236,Spain,32,30-34
+1237,United States,28,<30
+1238,Canada,27,<30
+1239,United States,30,<30
+1240,United States,47,>45
+1241,Canada,49,>45
+1242,United Kingdom,43,40-44
+1243,Australia,42,40-44
+1244,Germany,29,<30
+1245,France,35,30-34
+1246,Brazil,41,40-44
+1247,Mexico,47,>45
+1248,Spain,28,<30
+1249,Italy,44,40-44
+1250,Spain,28,<30
+1251,Spain,51,>45
+1252,United States,48,>45
+1253,Canada,49,>45
+1254,United States,50,>45
+1255,United States,43,40-44
+1256,Canada,32,30-34
+1257,United Kingdom,42,40-44
+1258,Australia,41,40-44
+1259,Germany,31,30-34
+1260,France,37,35-39
+1261,Brazil,46,>45
+1262,Mexico,30,<30
+1263,Spain,30,<30
+1264,Italy,34,30-34
+1265,Spain,47,>45
+1266,Spain,41,40-44
+1267,United States,42,40-44
+1268,Canada,48,>45
+1269,United States,30,<30
+1270,United States,51,>45
+1271,Canada,27,<30
+1272,United Kingdom,38,35-39
+1273,Australia,29,<30
+1274,Germany,40,35-39
+1275,France,31,30-34
+1276,Brazil,30,<30
+1277,Mexico,44,40-44
+1278,Spain,34,30-34
+1279,Italy,28,<30
+1280,Spain,41,40-44
+1281,Spain,43,40-44
+1282,United States,33,30-34
+1283,Canada,32,30-34
+1284,United States,39,35-39
+1285,United States,37,35-39
+1286,Canada,46,>45
+1287,United Kingdom,39,35-39
+1288,Australia,46,>45
+1289,Germany,43,40-44
+1290,France,32,30-34
+1291,Brazil,30,<30
+1292,Mexico,40,35-39
+1293,Spain,51,>45
+1294,Italy,40,35-39
+1295,Spain,28,<30
+1296,Spain,51,>45
+1297,United States,27,<30
+1298,Canada,35,30-34
+1299,United States,37,35-39
+1300,United States,51,>45
+1301,Canada,40,35-39
+1302,United Kingdom,38,35-39
+1303,Australia,48,>45
+1304,Germany,49,>45
+1305,France,33,30-34
+1306,Brazil,34,30-34
+1307,Mexico,39,35-39
+1308,Spain,37,35-39
+1309,Italy,44,40-44
+1310,Spain,35,30-34
+1311,Spain,31,30-34
+1312,United States,39,35-39
+1313,Canada,38,35-39
+1314,United States,42,40-44
+1315,United States,48,>45
+1316,Canada,31,30-34
+1317,United Kingdom,42,40-44
+1318,Australia,35,30-34
+1319,Germany,39,35-39
+1320,France,50,>45
+1321,Brazil,40,35-39
+1322,Mexico,29,<30
+1323,Spain,48,>45
+1324,Italy,34,30-34
+1325,Spain,48,>45
+1326,Spain,48,>45
+1327,United States,35,30-34
+1328,Canada,29,<30
+1329,United States,47,>45
+1330,United States,36,35-39
+1331,Canada,40,35-39
+1332,United Kingdom,51,>45
+1333,Australia,37,35-39
+1334,Germany,36,35-39
+1335,France,45,40-44
+1336,Brazil,31,30-34
+1337,Mexico,45,40-44
+1338,Spain,30,<30
+1339,Italy,40,35-39
+1340,Spain,44,40-44
+1341,Spain,36,35-39
+1342,United States,36,35-39
+1343,Canada,32,30-34
+1344,United States,46,>45
+1345,United States,39,35-39
+1346,Canada,30,<30
+1347,United Kingdom,34,30-34
+1348,Australia,28,<30
+1349,Germany,39,35-39
+1350,France,34,30-34
+1351,Brazil,42,40-44
+1352,Mexico,29,<30
+1353,Spain,29,<30
+1354,Italy,30,<30
+1355,Spain,51,>45
+1356,Spain,51,>45
+1357,United States,44,40-44
+1358,Canada,35,30-34
+1359,United States,39,35-39
+1360,United States,41,40-44
+1361,Canada,44,40-44
+1362,United Kingdom,29,<30
+1363,Australia,47,>45
+1364,Germany,28,<30
+1365,France,45,40-44
+1366,Brazil,28,<30
+1367,Mexico,31,30-34
+1368,Spain,47,>45
+1369,Italy,42,40-44
+1370,Spain,34,30-34
+1371,Spain,40,35-39
+1372,United States,42,40-44
+1373,Canada,33,30-34
+1374,United States,30,<30
+1375,United States,29,<30
+1376,Canada,31,30-34
+1377,United Kingdom,46,>45
+1378,Australia,46,>45
+1379,Germany,47,>45
+1380,France,48,>45
+1381,Brazil,32,30-34
+1382,Mexico,51,>45
+1383,Spain,33,30-34
+1384,Italy,43,40-44
+1385,Spain,43,40-44
+1386,Spain,42,40-44
+1387,United States,30,<30
+1388,Canada,50,>45
+1389,United States,51,>45
+1390,United States,36,35-39
+1391,Canada,41,40-44
+1392,United Kingdom,37,35-39
+1393,Australia,30,<30
+1394,Germany,50,>45
+1395,France,41,40-44
+1396,Brazil,29,<30
+1397,Mexico,43,40-44
+1398,Spain,31,30-34
+1399,Italy,40,35-39
+1400,Spain,35,30-34
+1401,Spain,39,35-39
+1402,United States,48,>45
+1403,Canada,42,40-44
+1404,United States,48,>45
+1405,United States,33,30-34
+1406,Canada,45,40-44
+1407,United Kingdom,40,35-39
+1408,Australia,38,35-39
+1409,Germany,31,30-34
+1410,France,33,30-34
+1411,Brazil,27,<30
+1412,Mexico,47,>45
+1413,Spain,41,40-44
+1414,Italy,32,30-34
+1415,Spain,31,30-34
+1416,Spain,43,40-44
+1417,United States,42,40-44
+1418,Canada,46,>45
+1419,United States,27,<30
+1420,United States,48,>45
+1421,Canada,49,>45
+1422,United Kingdom,43,40-44
+1423,Australia,38,35-39
+1424,Germany,37,35-39
+1425,France,39,35-39
+1426,Brazil,40,35-39
+1427,Mexico,40,35-39
+1428,Spain,48,>45
+1429,Italy,43,40-44
+1430,Spain,46,>45
+1431,Spain,43,40-44
+1432,United States,30,<30
+1433,Canada,51,>45
+1434,United States,30,<30
+1435,United States,47,>45
+1436,Canada,41,40-44
+1437,United Kingdom,45,40-44
+1438,Australia,47,>45
+1439,Germany,48,>45
+1440,France,51,>45
+1441,Brazil,29,<30
+1442,Mexico,43,40-44
+1443,Spain,49,>45
+1444,Italy,37,35-39
+1445,Spain,48,>45
+1446,Spain,36,35-39
+1447,United States,33,30-34
+1448,Canada,38,35-39
+1449,United States,42,40-44
+1450,United States,30,<30
+1451,Canada,39,35-39
+1452,United Kingdom,36,35-39
+1453,Australia,27,<30
+1454,Germany,49,>45
+1455,France,31,30-34
+1456,Brazil,36,35-39
+1457,Mexico,41,40-44
+1458,Spain,45,40-44
+1459,Italy,45,40-44
+1460,Spain,32,30-34
+1461,Spain,41,40-44
+1462,United States,37,35-39
+1463,Canada,27,<30
+1464,United States,41,40-44
+1465,United States,30,<30
+1466,Canada,43,40-44
+1467,United Kingdom,51,>45
+1468,Australia,46,>45
+1469,Germany,27,<30
+1470,France,51,>45
+1471,Brazil,28,<30
+1472,Mexico,33,30-34
+1473,Spain,31,30-34
+1474,Italy,47,>45
+1475,Spain,45,40-44
+1476,Spain,42,40-44
+1477,United States,47,>45
+1478,Canada,29,<30
+1479,United States,49,>45
+1480,United States,41,40-44
+1481,Canada,45,40-44
+1482,United Kingdom,49,>45
+1483,Australia,41,40-44
+1484,Germany,37,35-39
+1485,France,31,30-34
+1486,Brazil,29,<30
+1487,Mexico,51,>45
+1488,Spain,33,30-34
+1489,Italy,31,30-34
+1490,Spain,42,40-44
+1491,Spain,48,>45
+1492,United States,37,35-39
+1493,Canada,51,>45
+1494,United States,29,<30
+1495,United States,46,>45
+1496,Canada,35,30-34
+1497,United Kingdom,44,40-44
+1498,Australia,36,35-39
+1499,Germany,38,35-39
+1500,France,36,35-39
+1501,Brazil,40,35-39
+1502,Mexico,29,<30
+1503,Spain,32,30-34
+1504,Italy,30,<30
+1505,Spain,47,>45
+1506,Spain,28,<30
+1507,United States,49,>45
+1508,Canada,50,>45
+1509,United States,33,30-34
+1510,United States,50,>45
+1511,Canada,28,<30
+1512,United Kingdom,41,40-44
+1513,Australia,30,<30
+1514,Germany,32,30-34
+1515,France,50,>45
+1516,Brazil,28,<30
+1517,Mexico,45,40-44
+1518,Spain,31,30-34
+1519,Italy,27,<30
+1520,Spain,49,>45
+1521,Spain,32,30-34
+1522,United States,38,35-39
+1523,Canada,39,35-39
+1524,United States,50,>45
+1525,United States,51,>45
+1526,Canada,32,30-34
+1527,United Kingdom,45,40-44
+1528,Australia,31,30-34
+1529,Germany,44,40-44
+1530,France,30,<30
+1531,Brazil,44,40-44
+1532,Mexico,37,35-39
+1533,Spain,30,<30
+1534,Italy,31,30-34
+1535,Spain,31,30-34
+1536,Spain,44,40-44
+1537,United States,44,40-44
+1538,Canada,34,30-34
+1539,United States,42,40-44
+1540,United States,33,30-34
+1541,Canada,35,30-34
+1542,United Kingdom,34,30-34
+1543,Australia,47,>45
+1544,Germany,43,40-44
+1545,France,43,40-44
+1546,Brazil,35,30-34
+1547,Mexico,39,35-39
+1548,Spain,39,35-39
+1549,Italy,49,>45
+1550,Spain,30,<30
+1551,Spain,31,30-34
+1552,United States,39,35-39
+1553,Canada,30,<30
+1554,United States,43,40-44
+1555,United States,29,<30
+1556,Canada,46,>45
+1557,United Kingdom,35,30-34
+1558,Australia,30,<30
+1559,Germany,39,35-39
+1560,France,41,40-44
+1561,Brazil,27,<30
+1562,Mexico,42,40-44
+1563,Spain,45,40-44
+1564,Italy,36,35-39
+1565,Spain,35,30-34
+1566,Spain,38,35-39
+1567,United States,41,40-44
+1568,Canada,43,40-44
+1569,United States,44,40-44
+1570,United States,35,30-34
+1571,Canada,39,35-39
+1572,United Kingdom,43,40-44
+1573,Australia,36,35-39
+1574,Germany,49,>45
+1575,France,29,<30
+1576,Brazil,45,40-44
+1577,Mexico,44,40-44
+1578,Spain,40,35-39
+1579,Italy,51,>45
+1580,Spain,30,<30
+1581,Spain,50,>45
+1582,United States,39,35-39
+1583,Canada,51,>45
+1584,United States,42,40-44
+1585,United States,34,30-34
+1586,Canada,28,<30
+1587,United Kingdom,43,40-44
+1588,Australia,27,<30
+1589,Germany,49,>45
+1590,France,35,30-34
+1591,Brazil,34,30-34
+1592,Mexico,28,<30
+1593,Spain,49,>45
+1594,Italy,51,>45
+1595,Spain,36,35-39
+1596,Spain,37,35-39
+1597,United States,48,>45
+1598,Canada,45,40-44
+1599,United States,39,35-39
+1600,United States,39,35-39
+1601,Canada,46,>45
+1602,United Kingdom,30,<30
+1603,Australia,32,30-34
+1604,Germany,39,35-39
+1605,France,35,30-34
+1606,Brazil,41,40-44
+1607,Mexico,32,30-34
+1608,Spain,41,40-44
+1609,Italy,36,35-39
+1610,Spain,49,>45
+1611,Spain,30,<30
+1612,United States,40,35-39
+1613,Canada,46,>45
+1614,United States,30,<30
+1615,United States,48,>45
+1616,Canada,50,>45
+1617,United Kingdom,27,<30
+1618,Australia,51,>45
+1619,Germany,38,35-39
+1620,France,39,35-39
+1621,Brazil,45,40-44
+1622,Mexico,29,<30
+1623,Spain,35,30-34
+1624,Italy,51,>45
+1625,Spain,51,>45
+1626,Spain,42,40-44
+1627,United States,48,>45
+1628,Canada,40,35-39
+1629,United States,39,35-39
+1630,United States,44,40-44
+1631,Canada,27,<30
+1632,United Kingdom,35,30-34
+1633,Australia,45,40-44
+1634,Germany,33,30-34
+1635,France,32,30-34
+1636,Brazil,51,>45
+1637,Mexico,40,35-39
+1638,Spain,47,>45
+1639,Italy,42,40-44
+1640,Spain,41,40-44
+1641,Spain,43,40-44
+1642,United States,42,40-44
+1643,Canada,28,<30
+1644,United States,40,35-39
+1645,United States,46,>45
+1646,Canada,39,35-39
+1647,United Kingdom,41,40-44
+1648,Australia,30,<30
+1649,Germany,32,30-34
+1650,France,38,35-39
+1651,Brazil,38,35-39
+1652,Mexico,32,30-34
+1653,Spain,27,<30
+1654,Italy,50,>45
+1655,Spain,30,<30
+1656,Spain,49,>45
+1657,United States,32,30-34
+1658,Canada,35,30-34
+1659,United States,44,40-44
+1660,United States,49,>45
+1661,Canada,39,35-39
+1662,United Kingdom,38,35-39
+1663,Australia,38,35-39
+1664,Germany,37,35-39
+1665,France,28,<30
+1666,Brazil,49,>45
+1667,Mexico,33,30-34
+1668,Spain,48,>45
+1669,Italy,34,30-34
+1670,Spain,39,35-39
+1671,Spain,30,<30
+1672,United States,37,35-39
+1673,Canada,38,35-39
+1674,United States,42,40-44
+1675,United States,35,30-34
+1676,Canada,30,<30
+1677,United Kingdom,48,>45
+1678,Australia,48,>45
+1679,Germany,32,30-34
+1680,France,27,<30
+1681,Brazil,48,>45
+1682,Mexico,33,30-34
+1683,Spain,28,<30
+1684,Italy,46,>45
+1685,Spain,40,35-39
+1686,Spain,49,>45
+1687,United States,41,40-44
+1688,Canada,38,35-39
+1689,United States,42,40-44
+1690,United States,27,<30
+1691,Canada,41,40-44
+1692,United Kingdom,41,40-44
+1693,Australia,49,>45
+1694,Germany,28,<30
+1695,France,44,40-44
+1696,Brazil,47,>45
+1697,Mexico,29,<30
+1698,Spain,31,30-34
+1699,Italy,28,<30
+1700,Spain,32,30-34
+1701,Spain,43,40-44
+1702,United States,48,>45
+1703,Canada,28,<30
+1704,United States,31,30-34
+1705,United States,47,>45
+1706,Canada,39,35-39
+1707,United Kingdom,35,30-34
+1708,Australia,42,40-44
+1709,Germany,30,<30
+1710,France,34,30-34
+1711,Brazil,35,30-34
+1712,Mexico,31,30-34
+1713,Spain,36,35-39
+1714,Italy,31,30-34
+1715,Spain,32,30-34
+1716,Spain,46,>45
+1717,United States,30,<30
+1718,Canada,46,>45
+1719,United States,44,40-44
+1720,United States,34,30-34
+1721,Canada,31,30-34
+1722,United Kingdom,34,30-34
+1723,Australia,28,<30
+1724,Germany,36,35-39
+1725,France,48,>45
+1726,Brazil,40,35-39
+1727,Mexico,35,30-34
+1728,Spain,41,40-44
+1729,Italy,28,<30
+1730,Spain,37,35-39
+1731,Spain,33,30-34
+1732,United States,27,<30
+1733,Canada,35,30-34
+1734,United States,27,<30
+1735,United States,29,<30
+1736,Canada,28,<30
+1737,United Kingdom,33,30-34
+1738,Australia,35,30-34
+1739,Germany,37,35-39
+1740,France,31,30-34
+1741,Brazil,27,<30
+1742,Mexico,48,>45
+1743,Spain,30,<30
+1744,Italy,45,40-44
+1745,Spain,28,<30
+1746,Spain,30,<30
+1747,United States,48,>45
+1748,Canada,37,35-39
+1749,United States,28,<30
+1750,United States,43,40-44
+1751,Canada,36,35-39
+1752,United Kingdom,47,>45
+1753,Australia,42,40-44
+1754,Germany,50,>45
+1755,France,41,40-44
+1756,Brazil,43,40-44
+1757,Mexico,35,30-34
+1758,Spain,51,>45
+1759,Italy,35,30-34
+1760,Spain,37,35-39
+1761,Spain,28,<30
+1762,United States,32,30-34
+1763,Canada,37,35-39
+1764,United States,37,35-39
+1765,United States,34,30-34
+1766,Canada,30,<30
+1767,United Kingdom,35,30-34
+1768,Australia,41,40-44
+1769,Germany,50,>45
+1770,France,48,>45
+1771,Brazil,29,<30
+1772,Mexico,37,35-39
+1773,Spain,36,35-39
+1774,Italy,45,40-44
+1775,Spain,27,<30
+1776,Spain,31,30-34
+1777,United States,42,40-44
+1778,Canada,43,40-44
+1779,United States,43,40-44
+1780,United States,35,30-34
+1781,Canada,51,>45
+1782,United Kingdom,42,40-44
+1783,Australia,36,35-39
+1784,Germany,50,>45
+1785,France,43,40-44
+1786,Brazil,28,<30
+1787,Mexico,48,>45
+1788,Spain,47,>45
+1789,Italy,31,30-34
+1790,Spain,45,40-44
+1791,Spain,45,40-44
+1792,United States,42,40-44
+1793,Canada,36,35-39
+1794,United States,32,30-34
+1795,United States,50,>45
+1796,Canada,39,35-39
+1797,United Kingdom,51,>45
+1798,Australia,49,>45
+1799,Germany,42,40-44
+1800,France,46,>45
+1801,Brazil,30,<30
+1802,Mexico,48,>45
+1803,Spain,40,35-39
+1804,Italy,50,>45
+1805,Spain,49,>45
+1806,Spain,37,35-39
+1807,United States,43,40-44
+1808,Canada,40,35-39
+1809,United States,27,<30
+1810,United States,47,>45
+1811,Canada,50,>45
+1812,United Kingdom,31,30-34
+1813,Australia,33,30-34
+1814,Germany,42,40-44
+1815,France,51,>45
+1816,Brazil,43,40-44
+1817,Mexico,45,40-44
+1818,Spain,48,>45
+1819,Italy,48,>45
+1820,Spain,30,<30
+1821,Spain,29,<30
+1822,United States,28,<30
+1823,Canada,46,>45
+1824,United States,45,40-44
+1825,United States,30,<30
+1826,Canada,44,40-44
+1827,United Kingdom,46,>45
+1828,Australia,36,35-39
+1829,Germany,27,<30
+1830,France,43,40-44
+1831,Brazil,48,>45
+1832,Mexico,36,35-39
+1833,Spain,44,40-44
+1834,Italy,41,40-44
+1835,Spain,29,<30
+1836,Spain,28,<30
+1837,United States,36,35-39
+1838,Canada,36,35-39
+1839,United States,40,35-39
+1840,United States,35,30-34
+1841,Canada,34,30-34
+1842,United Kingdom,46,>45
+1843,Australia,47,>45
+1844,Germany,32,30-34
+1845,France,45,40-44
+1846,Brazil,31,30-34
+1847,Mexico,49,>45
+1848,Spain,33,30-34
+1849,Italy,30,<30
+1850,Spain,48,>45
+1851,Spain,49,>45
+1852,United States,43,40-44
+1853,Canada,46,>45
+1854,United States,33,30-34
+1855,United States,31,30-34
+1856,Canada,44,40-44
+1857,United Kingdom,34,30-34
+1858,Australia,41,40-44
+1859,Germany,42,40-44
+1860,France,38,35-39
+1861,Brazil,31,30-34
+1862,Mexico,35,30-34
+1863,Spain,32,30-34
+1864,Italy,39,35-39
+1865,Spain,42,40-44
+1866,Spain,31,30-34
+1867,United States,38,35-39
+1868,Canada,48,>45
+1869,United States,29,<30
+1870,United States,43,40-44
+1871,Canada,49,>45
+1872,United Kingdom,50,>45
+1873,Australia,50,>45
+1874,Germany,51,>45
+1875,France,29,<30
+1876,Brazil,50,>45
+1877,Mexico,39,35-39
+1878,Spain,27,<30
+1879,Italy,29,<30
+1880,Spain,28,<30
+1881,Spain,46,>45
+1882,United States,50,>45
+1883,Canada,33,30-34
+1884,United States,32,30-34
+1885,United States,38,35-39
+1886,Canada,49,>45
+1887,United Kingdom,50,>45
+1888,Australia,37,35-39
+1889,Germany,33,30-34
+1890,France,33,30-34
+1891,Brazil,46,>45
+1892,Mexico,28,<30
+1893,Spain,33,30-34
+1894,Italy,45,40-44
+1895,Spain,43,40-44
+1896,Spain,49,>45
+1897,United States,41,40-44
+1898,Canada,39,35-39
+1899,United States,45,40-44
+1900,United States,38,35-39
+1901,Canada,30,<30
+1902,United Kingdom,27,<30
+1903,Australia,36,35-39
+1904,Germany,36,35-39
+1905,France,28,<30
+1906,Brazil,45,40-44
+1907,Mexico,41,40-44
+1908,Spain,29,<30
+1909,Italy,35,30-34
+1910,Spain,36,35-39
+1911,Spain,41,40-44
+1912,United States,46,>45
+1913,Canada,46,>45
+1914,United States,42,40-44
+1915,United States,40,35-39
+1916,Canada,32,30-34
+1917,United Kingdom,34,30-34
+1918,Australia,27,<30
+1919,Germany,38,35-39
+1920,France,34,30-34
+1921,Brazil,28,<30
+1922,Mexico,48,>45
+1923,Spain,42,40-44
+1924,Italy,37,35-39
+1925,Spain,28,<30
+1926,Spain,43,40-44
+1927,United States,44,40-44
+1928,Canada,33,30-34
+1929,United States,36,35-39
+1930,United States,27,<30
+1931,Canada,41,40-44
+1932,United Kingdom,32,30-34
+1933,Australia,36,35-39
+1934,Germany,36,35-39
+1935,France,36,35-39
+1936,Brazil,32,30-34
+1937,Mexico,45,40-44
+1938,Spain,43,40-44
+1939,Italy,35,30-34
+1940,Spain,29,<30
+1941,Spain,33,30-34
+1942,United States,49,>45
+1943,Canada,27,<30
+1944,United States,39,35-39
+1945,United States,34,30-34
+1946,Canada,39,35-39
+1947,United Kingdom,39,35-39
+1948,Australia,39,35-39
+1949,Germany,40,35-39
+1950,France,40,35-39
+1951,Brazil,31,30-34
+1952,Mexico,47,>45
+1953,Spain,43,40-44
+1954,Italy,34,30-34
+1955,Spain,30,<30
+1956,Spain,33,30-34
+1957,United States,29,<30
+1958,Canada,35,30-34
+1959,United States,41,40-44
+1960,United States,34,30-34
+1961,Canada,28,<30
+1962,United Kingdom,31,30-34
+1963,Australia,29,<30
+1964,Germany,44,40-44
+1965,France,44,40-44
+1966,Brazil,29,<30
+1967,Mexico,32,30-34
+1968,Spain,31,30-34
+1969,Italy,27,<30
+1970,Spain,43,40-44
+1971,Spain,48,>45
+1972,United States,37,35-39
+1973,Canada,42,40-44
+1974,United States,40,35-39
+1975,United States,37,35-39
+1976,Canada,31,30-34
+1977,United Kingdom,30,<30
+1978,Australia,51,>45
+1979,Germany,42,40-44
+1980,France,37,35-39
+1981,Brazil,44,40-44
+1982,Mexico,37,35-39
+1983,Spain,44,40-44
+1984,Italy,40,35-39
+1985,Spain,27,<30
+1986,Spain,31,30-34
+1987,United States,39,35-39
+1988,Canada,47,>45
+1989,United States,30,<30
+1990,United States,35,30-34
+1991,Canada,39,35-39
+1992,United Kingdom,29,<30
+1993,Australia,28,<30
+1994,Germany,39,35-39
+1995,France,34,30-34
+1996,Brazil,47,>45
+1997,Mexico,47,>45
+1998,Spain,46,>45
+1999,Italy,31,30-34
+2000,Spain,41,40-44
+2001,Spain,30,<30
+2002,United States,41,40-44
+2003,Canada,48,>45
+2004,United States,35,30-34
+2005,United States,41,40-44
+2006,Canada,39,35-39
+2007,United Kingdom,45,40-44
+2008,Australia,41,40-44
+2009,Germany,28,<30
+2010,France,28,<30
+2011,Brazil,48,>45
+2012,Mexico,40,35-39
+2013,Spain,39,35-39
+2014,Italy,27,<30
+2015,Spain,32,30-34
+2016,Spain,38,35-39
+2017,United States,41,40-44
+2018,Canada,32,30-34
+2019,United States,37,35-39
+2020,United States,50,>45
+2021,Canada,48,>45
+2022,United Kingdom,37,35-39
+2023,Australia,46,>45
+2024,Germany,46,>45
+2025,France,39,35-39
+2026,Brazil,42,40-44
+2027,Mexico,41,40-44
+2028,Spain,28,<30
+2029,Italy,43,40-44
+2030,Spain,45,40-44
+2031,Spain,45,40-44
+2032,United States,48,>45
+2033,Canada,30,<30
+2034,United States,51,>45
+2035,United States,48,>45
+2036,Canada,41,40-44
+2037,United Kingdom,37,35-39
+2038,Australia,43,40-44
+2039,Germany,51,>45
+2040,France,34,30-34
+2041,Brazil,35,30-34
+2042,Mexico,45,40-44
+2043,Spain,31,30-34
+2044,Italy,50,>45
+2045,Spain,41,40-44
+2046,Spain,42,40-44
+2047,United States,41,40-44
+2048,Canada,34,30-34
+2049,United States,35,30-34
+2050,United States,48,>45
+2051,Canada,39,35-39
+2052,United Kingdom,37,35-39
+2053,Australia,31,30-34
+2054,Germany,29,<30
+2055,France,36,35-39
+2056,Brazil,32,30-34
+2057,Mexico,31,30-34
+2058,Spain,31,30-34
+2059,Italy,29,<30
+2060,Spain,48,>45
+2061,Spain,46,>45
+2062,United States,35,30-34
+2063,Canada,37,35-39
+2064,United States,45,40-44
+2065,United States,48,>45
+2066,Canada,44,40-44
+2067,United Kingdom,47,>45
+2068,Australia,35,30-34
+2069,Germany,35,30-34
+2070,France,35,30-34
+2071,Brazil,49,>45
+2072,Mexico,50,>45
+2073,Spain,44,40-44
+2074,Italy,47,>45
+2075,Spain,46,>45
+2076,Spain,39,35-39
+2077,United States,34,30-34
+2078,Canada,31,30-34
+2079,United States,46,>45
+2080,United States,30,<30
+2081,Canada,29,<30
+2082,United Kingdom,42,40-44
+2083,Australia,27,<30
+2084,Germany,33,30-34
+2085,France,45,40-44
+2086,Brazil,50,>45
+2087,Mexico,42,40-44
+2088,Spain,29,<30
+2089,Italy,31,30-34
+2090,Spain,42,40-44
+2091,Spain,44,40-44
+2092,United States,34,30-34
+2093,Canada,40,35-39
+2094,United States,38,35-39
+2095,United States,42,40-44
+2096,Canada,47,>45
+2097,United Kingdom,29,<30
+2098,Australia,29,<30
+2099,Germany,44,40-44
+2100,France,31,30-34
+2101,Brazil,48,>45
+2102,Mexico,32,30-34
+2103,Spain,28,<30
+2104,Italy,36,35-39
+2105,Spain,28,<30
+2106,Spain,32,30-34
+2107,United States,50,>45
+2108,Canada,44,40-44
+2109,United States,44,40-44
+2110,United States,47,>45
+2111,Canada,39,35-39
+2112,United Kingdom,44,40-44
+2113,Australia,46,>45
+2114,Germany,31,30-34
+2115,France,33,30-34
+2116,Brazil,27,<30
+2117,Mexico,34,30-34
+2118,Spain,48,>45
+2119,Italy,39,35-39
+2120,Spain,39,35-39
+2121,Spain,48,>45
+2122,United States,37,35-39
+2123,Canada,40,35-39
+2124,United States,41,40-44
+2125,United States,35,30-34
+2126,Canada,46,>45
+2127,United Kingdom,28,<30
+2128,Australia,29,<30
+2129,Germany,46,>45
+2130,France,35,30-34
+2131,Brazil,27,<30
+2132,Mexico,38,35-39
+2133,Spain,43,40-44
+2134,Italy,31,30-34
+2135,Spain,29,<30
+2136,Spain,34,30-34
+2137,United States,39,35-39
+2138,Canada,34,30-34
+2139,United States,51,>45
+2140,United States,47,>45
+2141,Canada,46,>45
+2142,United Kingdom,46,>45
+2143,Australia,47,>45
+2144,Germany,40,35-39
+2145,France,41,40-44
+2146,Brazil,30,<30
+2147,Mexico,31,30-34
+2148,Spain,42,40-44
+2149,Italy,46,>45
+2150,Spain,34,30-34
+2151,Spain,42,40-44
+2152,United States,45,40-44
+2153,Canada,30,<30
+2154,United States,44,40-44
+2155,United States,37,35-39
+2156,Canada,43,40-44
+2157,United Kingdom,46,>45
+2158,Australia,40,35-39
+2159,Germany,45,40-44
+2160,France,48,>45
+2161,Brazil,43,40-44
+2162,Mexico,48,>45
+2163,Spain,32,30-34
+2164,Italy,38,35-39
+2165,Spain,50,>45
+2166,Spain,33,30-34
+2167,United States,27,<30
+2168,Canada,47,>45
+2169,United States,35,30-34
+2170,United States,41,40-44
+2171,Canada,39,35-39
+2172,United Kingdom,46,>45
+2173,Australia,33,30-34
+2174,Germany,30,<30
+2175,France,46,>45
+2176,Brazil,42,40-44
+2177,Mexico,28,<30
+2178,Spain,40,35-39
+2179,Italy,31,30-34
+2180,Spain,27,<30
+2181,Spain,45,40-44
+2182,United States,49,>45
+2183,Canada,28,<30
+2184,United States,33,30-34
+2185,United States,38,35-39
+2186,Canada,44,40-44
+2187,United Kingdom,34,30-34
+2188,Australia,35,30-34
+2189,Germany,47,>45
+2190,France,30,<30
+2191,Brazil,50,>45
+2192,Mexico,32,30-34
+2193,Spain,36,35-39
+2194,Italy,40,35-39
+2195,Spain,39,35-39
+2196,Spain,28,<30
+2197,United States,29,<30
+2198,Canada,49,>45
+2199,United States,40,35-39
+2200,United States,29,<30
+2201,Canada,35,30-34
+2202,United Kingdom,44,40-44
+2203,Australia,39,35-39
+2204,Germany,27,<30
+2205,France,31,30-34
+2206,Brazil,39,35-39
+2207,Mexico,44,40-44
+2208,Spain,48,>45
+2209,Italy,27,<30
+2210,Spain,27,<30
+2211,Spain,41,40-44
+2212,United States,44,40-44
+2213,Canada,29,<30
+2214,United States,42,40-44
+2215,United States,45,40-44
+2216,Canada,39,35-39
+2217,United Kingdom,41,40-44
+2218,Australia,41,40-44
+2219,Germany,41,40-44
+2220,France,47,>45
+2221,Brazil,49,>45
+2222,Mexico,29,<30
+2223,Spain,33,30-34
+2224,Italy,45,40-44
+2225,Spain,41,40-44
+2226,Spain,31,30-34
+2227,United States,51,>45
+2228,Canada,43,40-44
+2229,United States,33,30-34
+2230,United States,47,>45
+2231,Canada,40,35-39
+2232,United Kingdom,34,30-34
+2233,Australia,40,35-39
+2234,Germany,38,35-39
+2235,France,47,>45
+2236,Brazil,29,<30
+2237,Mexico,49,>45
+2238,Spain,40,35-39
+2239,Italy,51,>45
+2240,Spain,51,>45
+2241,Spain,50,>45
+2242,United States,47,>45
+2243,Canada,40,35-39
+2244,United States,35,30-34
+2245,United States,37,35-39
+2246,Canada,30,<30
+2247,United Kingdom,47,>45
+2248,Australia,35,30-34
+2249,Germany,33,30-34
+2250,France,51,>45
+2251,Brazil,31,30-34
+2252,Mexico,48,>45
+2253,Spain,40,35-39
+2254,Italy,41,40-44
+2255,Spain,41,40-44
+2256,Spain,28,<30
+2257,United States,45,40-44
+2258,Canada,32,30-34
+2259,United States,31,30-34
+2260,United States,40,35-39
+2261,Canada,40,35-39
+2262,United Kingdom,50,>45
+2263,Australia,41,40-44
+2264,Germany,43,40-44
+2265,France,43,40-44
+2266,Brazil,36,35-39
+2267,Mexico,48,>45
+2268,Spain,33,30-34
+2269,Italy,30,<30
+2270,Spain,37,35-39
+2271,Spain,49,>45
+2272,United States,47,>45
+2273,Canada,45,40-44
+2274,United States,50,>45
+2275,United States,36,35-39
+2276,Canada,37,35-39
+2277,United Kingdom,38,35-39
+2278,Australia,40,35-39
+2279,Germany,38,35-39
+2280,France,46,>45
+2281,Brazil,40,35-39
+2282,Mexico,34,30-34
+2283,Spain,39,35-39
+2284,Italy,47,>45
+2285,Spain,41,40-44
+2286,Spain,47,>45
+2287,United States,50,>45
+2288,Canada,31,30-34
+2289,United States,41,40-44
+2290,United States,31,30-34
+2291,Canada,41,40-44
+2292,United Kingdom,28,<30
+2293,Australia,40,35-39
+2294,Germany,34,30-34
+2295,France,37,35-39
+2296,Brazil,30,<30
+2297,Mexico,32,30-34
+2298,Spain,41,40-44
+2299,Italy,42,40-44
+2300,Spain,40,35-39
+2301,Spain,30,<30
+2302,United States,43,40-44
+2303,Canada,31,30-34
+2304,United States,45,40-44
+2305,United States,33,30-34
+2306,Canada,41,40-44
+2307,United Kingdom,37,35-39
+2308,Australia,40,35-39
+2309,Germany,36,35-39
+2310,France,28,<30
+2311,Brazil,38,35-39
+2312,Mexico,36,35-39
+2313,Spain,47,>45
+2314,Italy,35,30-34
+2315,Spain,29,<30
+2316,Spain,49,>45
+2317,United States,34,30-34
+2318,Canada,37,35-39
+2319,United States,50,>45
+2320,United States,38,35-39
+2321,Canada,37,35-39
+2322,United Kingdom,34,30-34
+2323,Australia,30,<30
+2324,Germany,35,30-34
+2325,France,39,35-39
+2326,Brazil,47,>45
+2327,Mexico,40,35-39
+2328,Spain,33,30-34
+2329,Italy,32,30-34
+2330,Spain,32,30-34
+2331,Spain,30,<30
+2332,United States,49,>45
+2333,Canada,39,35-39
+2334,United States,45,40-44
+2335,United States,43,40-44
+2336,Canada,41,40-44
+2337,United Kingdom,38,35-39
+2338,Australia,34,30-34
+2339,Germany,38,35-39
+2340,France,48,>45
+2341,Brazil,38,35-39
+2342,Mexico,34,30-34
+2343,Spain,44,40-44
+2344,Italy,39,35-39
+2345,Spain,43,40-44
+2346,Spain,49,>45
+2347,United States,48,>45
+2348,Canada,47,>45
+2349,United States,27,<30
+2350,United States,40,35-39
+2351,Canada,43,40-44
+2352,United Kingdom,30,<30
+2353,Australia,43,40-44
+2354,Germany,49,>45
+2355,France,47,>45
+2356,Brazil,33,30-34
+2357,Mexico,48,>45
+2358,Spain,31,30-34
+2359,Italy,30,<30
+2360,Spain,34,30-34
+2361,Spain,37,35-39
+2362,United States,44,40-44
+2363,Canada,28,<30
+2364,United States,47,>45
+2365,United States,43,40-44
+2366,Canada,51,>45
+2367,United Kingdom,50,>45
+2368,Australia,40,35-39
+2369,Germany,31,30-34
+2370,France,29,<30
+2371,Brazil,38,35-39
+2372,Mexico,47,>45
+2373,Spain,30,<30
+2374,Italy,42,40-44
+2375,Spain,49,>45
+2376,Spain,50,>45
+2377,United States,51,>45
+2378,Canada,47,>45
+2379,United States,36,35-39
+2380,United States,30,<30
+2381,Canada,34,30-34
+2382,United Kingdom,35,30-34
+2383,Australia,30,<30
+2384,Germany,30,<30
+2385,France,41,40-44
+2386,Brazil,39,35-39
+2387,Mexico,30,<30
+2388,Spain,36,35-39
+2389,Italy,33,30-34
+2390,Spain,35,30-34
+2391,Spain,46,>45
+2392,United States,51,>45
+2393,Canada,42,40-44
+2394,United States,30,<30
+2395,United States,45,40-44
+2396,Canada,27,<30
+2397,United Kingdom,41,40-44
+2398,Australia,35,30-34
+2399,Germany,30,<30
+2400,France,35,30-34
+2401,Brazil,47,>45
+2402,Mexico,41,40-44
+2403,Spain,48,>45
+2404,Italy,32,30-34
+2405,Spain,35,30-34
+2406,Spain,31,30-34
+2407,United States,45,40-44
+2408,Canada,38,35-39
+2409,United States,34,30-34
+2410,United States,37,35-39
+2411,Canada,27,<30
+2412,United Kingdom,44,40-44
+2413,Australia,46,>45
+2414,Germany,37,35-39
+2415,France,44,40-44
+2416,Brazil,29,<30
+2417,Mexico,28,<30
+2418,Spain,50,>45
+2419,Italy,39,35-39
+2420,Spain,34,30-34
+2421,Spain,40,35-39
+2422,United States,30,<30
+2423,Canada,41,40-44
+2424,United States,39,35-39
+2425,United States,51,>45
+2426,Canada,28,<30
+2427,United Kingdom,30,<30
+2428,Australia,30,<30
+2429,Germany,44,40-44
+2430,France,29,<30
+2431,Brazil,28,<30
+2432,Mexico,48,>45
+2433,Spain,42,40-44
+2434,Italy,39,35-39
+2435,Spain,44,40-44
+2436,Spain,49,>45
+2437,United States,49,>45
+2438,Canada,36,35-39
+2439,United States,50,>45
+2440,United States,49,>45
+2441,Canada,36,35-39
+2442,United Kingdom,28,<30
+2443,Australia,45,40-44
+2444,Germany,31,30-34
+2445,France,46,>45
+2446,Brazil,27,<30
+2447,Mexico,43,40-44
+2448,Spain,51,>45
+2449,Italy,47,>45
+2450,Spain,48,>45
+2451,Spain,31,30-34
+2452,United States,48,>45
+2453,Canada,36,35-39
+2454,United States,38,35-39
+2455,United States,39,35-39
+2456,Canada,48,>45
+2457,United Kingdom,30,<30
+2458,Australia,30,<30
+2459,Germany,35,30-34
+2460,France,41,40-44
+2461,Brazil,40,35-39
+2462,Mexico,50,>45
+2463,Spain,42,40-44
+2464,Italy,30,<30
+2465,Spain,34,30-34
+2466,Spain,40,35-39
+2467,United States,47,>45
+2468,Canada,36,35-39
+2469,United States,50,>45
+2470,United States,46,>45
+2471,Canada,27,<30
+2472,United Kingdom,39,35-39
+2473,Australia,49,>45
+2474,Germany,37,35-39
+2475,France,28,<30
+2476,Brazil,40,35-39
+2477,Mexico,47,>45
+2478,Spain,51,>45
+2479,Italy,47,>45
+2480,Spain,33,30-34
+2481,Spain,37,35-39
+2482,United States,42,40-44
+2483,Canada,50,>45
+2484,United States,47,>45
+2485,United States,40,35-39
+2486,Canada,35,30-34
+2487,United Kingdom,29,<30
+2488,Australia,48,>45
+2489,Germany,35,30-34
+2490,France,41,40-44
+2491,Brazil,29,<30
+2492,Mexico,33,30-34
+2493,Spain,36,35-39
+2494,Italy,43,40-44
+2495,Spain,28,<30
+2496,Spain,33,30-34
+2497,United States,38,35-39
+2498,Canada,48,>45
+2499,United States,35,30-34
